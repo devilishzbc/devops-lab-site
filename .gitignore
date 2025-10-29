@@ -1,0 +1,7 @@
+*.log
+cache/
+vendor/
+*.sql
+*.sql.gz
+.idea/
+.DS_Store
