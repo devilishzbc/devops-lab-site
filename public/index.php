@@ -1,3 +1,4 @@
+<!-- feature: header added -->
 <?php
 $dsn  = 'mysql:host=192.168.56.11;dbname=devops_lab;charset=utf8mb4';
 $user = 'web';
