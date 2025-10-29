@@ -1,0 +1,10 @@
+app:
+  name: devops-lab-site
+  log: /var/log/nginx/mysite.access.log
+
+db:
+  host: 192.168.56.11
+  port: 3306
+  name: devops_lab
+  user: web
+  pass: webpass
